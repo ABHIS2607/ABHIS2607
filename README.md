@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABHIS2607
 - 👀 I’m interested in open source,web deveploment
-- 🌱 I’m currently learning  ML FLASK
+- 🌱 I’m currently learning  ML, FLASK
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me  mail me at abhi3r52@gmail.com
 
